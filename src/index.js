@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+export { default as DataModelSelect } from './DataModelSelect'
+export { default as ContentCard } from './ContentCard'
 ReactDOM.render(
   <React.StrictMode>
     <App />

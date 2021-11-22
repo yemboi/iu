@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"POT-Creation-Date: 2021-10-26T20:18:02.227Z\n"
+"PO-Revision-Date: 2021-10-26T20:18:02.227Z\n"
+
+msgid "Conflicts"
+msgstr "Conflicts"
+
+msgid "Shows conflicts that were detected"
+msgstr "Shows conflicts that were detected"
+
+msgid "Object UID"
+msgstr "Object UID"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "All the detected conflicts will not be processed."
+msgstr "All the detected conflicts will not be processed."
+
+msgid "Are you sure you want to proceed?"
+msgstr "Are you sure you want to proceed?"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Dismiss conflicts"
+msgstr "Dismiss conflicts"
+
+msgid "File has conflicts. Dismiss conflicts or make a new import."
+msgstr "File has conflicts. Dismiss conflicts or make a new import."
+
+msgid "Process"
+msgstr "Process"
+
+msgid "Dry run"
+msgstr "Dry run"
+
+msgid "New import"
+msgstr "New import"
+
+msgid "Files not imported: only .xlsx files are supported for now."
+msgstr "Files not imported: only .xlsx files are supported for now."
+
+msgid "Files not imported: Please upload only one file at a time"
+msgstr "Files not imported: Please upload only one file at a time"
+
+msgid "Upload File"
+msgstr "Upload File"
+
+msgid "Supported file type: XLSX"
+msgstr "Supported file type: XLSX"
+
+msgid "Merge: Import new values and update existing"
+msgstr "Merge: Import new values and update existing"
+
+msgid "Update: Only update existing values, ignore new values"
+msgstr "Update: Only update existing values, ignore new values"
+
+msgid "Append: Import new values only"
+msgstr "Append: Import new values only"
+
+msgid "Delete: Remove values included in the uploaded file"
+msgstr "Delete: Remove values included in the uploaded file"
+
+msgid "Created"
+msgstr "Created"
+
+msgid "Updated"
+msgstr "Updated"
+
+msgid "Deleted"
+msgstr "Deleted"
+
+msgid "Ignored"
+msgstr "Ignored"
+
+msgid "Rows per page"
+msgstr "Rows per page"
+
+msgid "Data model"
+msgstr "Data model"
+
+msgid "Dataset/Program"
+msgstr "Dataset/Program"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Template"
+msgstr "Template"
+
+msgid "Import data"
+msgstr "Import data"
+
+msgid "Change database language"
+msgstr "Change database language"
+
+msgid "All user accessible organisation units for {{dataModel}}"
+msgstr "All user accessible organisation units for {{dataModel}}"
+
+msgid "Specific individual organisation units"
+msgstr "Specific individual organisation units"
+
+msgid "Select organisation unit level"
+msgstr "Select organisation unit level"
+
+msgid "Select organisation unit group"
+msgstr "Select organisation unit group"
+
+msgid "Prepopulate template with data?"
+msgstr "Prepopulate template with data?"
+
+msgid "Start date"
+msgstr "Start date"
+
+msgid "End date"
+msgstr "End date"
+
+msgid "Template settings"
+msgstr "Template settings"
+
+msgid "Organisation unit"
+msgstr "Organisation unit"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Download template"
+msgstr "Download template"
+
+msgid "Aggregate Data"
+msgstr "Aggregate Data"
+
+msgid "Event Data"
+msgstr "Event Data"
+
+msgid "Tracker Data"
+msgstr "Tracker Data"
+
+msgid "data set"
+msgstr "data set"
+
+msgid "program"
+msgstr "program"

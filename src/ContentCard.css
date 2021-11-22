@@ -1,0 +1,105 @@
+.box {
+  
+  padding: var(--spacers-dp17);
+
+}
+
+.contentCardInnerContainer {
+  box-sizing: border-box;
+  height: 337px;
+  width: 269px;
+  border: 1px solid #E8EDF1;
+  background-color: #FFFFFF;
+  padding-left:17px;
+  padding-bottom: 152px;
+  
+
+}
+      
+.CardDiv {
+  box-sizing: border-box;
+  height: 337px;
+  width: 269px;
+  border: 1px solid #E8EDF1;
+  background-color: #FFFFFF;
+  padding-left:17px;
+  padding-bottom: 152px;
+  
+}
+        
+      
+     
+  
+  .contentCardOuterContainer {
+    box-sizing: border-box;
+    height: 337px;
+    width: 269px;
+    border: 1px solid #E8EDF1;
+    background-color: #FFFFFF;
+    padding-bottom: 50px;
+  }
+
+  .contentCardPorgramField {
+    box-sizing: border-box;
+    height: 39px;
+    width: 239px;
+    border: 1px solid #A0ADBA;
+    border-radius: 3px;
+    font: 100;
+  }
+
+  .group-17 {
+    padding: var(--spacers-dp17);
+
+  }
+ 
+  .rectangle2 {
+    box-sizing: border-box;
+    height: 39px;
+    width: 239px;
+    border: 1px solid #A0ADBA;
+    border-radius: 3px;
+    font: 100;
+  }
+  .contentCardInnerContainerFeilds {
+    box-sizing: border-box;
+    height: 39px;
+    width: 239px;
+    border: 5px solid #A0ADBA;
+    border-radius: 5px;
+    position:absolute
+  }
+
+  .contentCardInnerContainerFeildText {
+    
+        height: 24px;
+        width: 153px;
+        color: #6E7A8A;
+        font-family: Roboto;
+        font-size: 14px;
+        letter-spacing: 0;
+        line-height: 24px;
+      }
+
+      .SingleSelectField {
+        min-width: 300px;
+      }
+      
+      .cardItem {
+        margin: var(--spacers-dp16) 0 var(--spacers-dp8) 0;
+      }
+  
+  
+
+
+  .h2, label {  
+      height: 24px;
+      width: 175px;
+      color: #212934;
+      font-family: Roboto;
+      font-size: 14px;
+      font-weight: bold;
+      letter-spacing: 0;
+      line-height: 24px;
+    }
+  
